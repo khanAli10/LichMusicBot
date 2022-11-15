@@ -58,6 +58,4 @@
 ![image](https://user-images.githubusercontent.com/4060573/181926061-310e817a-97c5-48d8-adce-77a505c36336.png)
 
 - [Download NodeJS V17](https://nodejs.org/)
-#� �L�i�c�h�M�u�s�i�c�B�o�t�
-�
-�
+
